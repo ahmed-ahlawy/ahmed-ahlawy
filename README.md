@@ -1,5 +1,4 @@
-![Drake](https://readme-typing-svg.herokuapp.com?color=FEF9A7&center=true&vCenter=true&height=30&lines=Am+Ahmed+Zakaria+👑👑)
-  <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=21&duration=4996&color=F7A409&background=3C46FF00&width=378&height=48&lines=Hello%F0%9F%94%A5+Am+Ahmed+Zakaria;Welcome+To+my+Profile+%E2%9C%85)](https://git.io/typing-svg)
 
 <h3 align="center">
   
