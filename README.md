@@ -64,13 +64,13 @@
   <br/>
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/CSS/CSS-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/Vue.js/Vue.js-ar21.svg"></code>
+ 
+  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/Sass/Sass-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/HTML/HTML-ar21.svg"></code>
+  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <br />
 </p>
