@@ -66,12 +66,13 @@
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 	  <img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+	  <img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
 	</code>
   
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  
 	
   
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  
   
 </p>
 <br/>
