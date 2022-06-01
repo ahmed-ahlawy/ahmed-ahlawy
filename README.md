@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=21&duration=4996&color=F7A409&background=3C46FF00&width=378&height=48&lines=Hello%F0%9F%94%A5+Am+Ahmed+Zakaria;Welcome+To+my+Profile+%E2%9C%85)](https://git.io/typing-svg)
-alt="thesaravanakumar" /> 
+
 
 <h3 align="center">
   
@@ -62,8 +62,18 @@ alt="thesaravanakumar" />
   <br/>
    <a href="https://github.com/7oSkaaa"><img alt="ahmed-ahlawy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/CSS3/CSS3-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/Vue.js/Vue.js-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/Sass/Sass-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/HTML5/HTML5-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/BOOTSTRAB/BOOTSTRAB-ar21.svg"></code>
+  <br />
+</p>
 <br/>
 
 ## :trophy: Git profile Trophies
