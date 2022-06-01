@@ -71,8 +71,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-ahlawy&layout=compact&theme=algolia" alt="ahmed-ahlawy" /></a> </p>
 
 -----
-Credits: [ahlawy](https://github.com/ahmed-ahlawy)
+![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
 
-Last Edited on: 10/02/2022
+------
+Credit: [thesaravanakumar](https://github.com/ahmed-ahlawy)
+
+Last Edited on: 27/10/2021
 
 <br>
