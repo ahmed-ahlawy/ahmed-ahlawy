@@ -1,4 +1,4 @@
-![Drake](https://readme-typing-svg.herokuapp.com?color=FEF9A7&center=true&vCenter=true&height=30&lines=Am+Ahmed+Zakaria+Welcome👑👑)
+![Drake](https://readme-typing-svg.herokuapp.com?color=FEF9A7&center=true&vCenter=true&height=30&lines=Am+Ahmed+Zakaria+👑👑)
   <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
 
 <h3 align="center">
